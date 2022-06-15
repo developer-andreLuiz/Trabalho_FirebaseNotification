@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cn4zN7nlpJIYrg8lB008PwBB8P1lXy1ONiynED1wy46ClVyMJjkCq1TZNHrLIOGxk3tR92OfwLFG4lCs72zRFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre\\Downloads\\FirebaseNotification\\FirebaseNotification\\FirebaseNotification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611799407115",
+    "project_id": "appmercadoonline-38dae",
+    "storage_bucket": "appmercadoonline-38dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611799407115:android:a3a90b63807fec0ae9450e",
+        "android_client_info": {
+          "package_name": "com.mercadoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611799407115-codtpbdse9s61ut7qbsv313fdtjjd6vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKB1-BQblJqX9NpWdgfwjEoZRL5B59-sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611799407115-codtpbdse9s61ut7qbsv313fdtjjd6vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
